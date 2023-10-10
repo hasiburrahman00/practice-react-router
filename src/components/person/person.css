@@ -1,0 +1,26 @@
+.single-person {
+    background-color: orange;
+    border: 1px solid blcck;
+    margin: 20px 20px;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.all-persons {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+
+}
+
+.button {
+    padding: 10px 20px;
+    border: 1px solid orangered;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    width: 100px;
+    margin: 100px auto;
+    background-color: orangered;
+    color: wheat;
+}

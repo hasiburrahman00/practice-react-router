@@ -15,6 +15,9 @@ const Navbar = () => {
                     <Link to="/contact">Contact</Link>
                 </li>
                 <li>
+                    <Link to="/persons">Persons</Link>
+                </li>
+                <li>
                     <Link to="/error-page">404 page</Link>
                 </li>
             </ul>
